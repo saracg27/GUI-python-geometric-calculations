@@ -1,4 +1,4 @@
-#Devoir semaine 4 - Python. Creer une interface utilisateur permettant de calculer le périmètre et l'aire d'un triangle rectangle
+#Creer une interface utilisateur permettant de calculer le périmètre et l'aire d'un triangle rectangle
 # à partir  de la base et de la hauteur du triangle. 
 
 # Importer la bibliothèque tkinter pour créer une interface graphique
